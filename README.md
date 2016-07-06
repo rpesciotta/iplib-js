@@ -1,5 +1,5 @@
 # iplib-js
-An adapted IP library for JavaScript
+An adapted IP library for JavaScript based on the Base.js library by Dean Edwards (http://dean.edwards.name/weblog/2006/03/base/).
 
 This project is an adaptation of the original iplib-js, which used to be located at this URL, and is over time being shut-down:
 https://code.google.com/archive/p/iplib-js/
